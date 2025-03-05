@@ -1,10 +1,3 @@
-//
-//  README.md
-//  Eka.Care Demo
-//
-//  Created by Varun Adit on 3/5/25.
-//
-
 # 📰 SwiftUI News Reader App
 
 ## 🌟 Project Overview
